@@ -3,8 +3,10 @@ TryHackMe - Notas
 Mis apuntes de las salas de TryHackMe de mi ruta hacia DevSecOps (Fase 1). Estudio con la cuenta gratuita, una o dos sesiones por semana.
 
 Reglas
+
 Un archivo por sala, con mis propias palabras.
 No publico banderas (flags) ni respuestas.
+
 Solo practico en laboratorios hechos para eso.
 Laboratorios (en orden)
 Introducción
