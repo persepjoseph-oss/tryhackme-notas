@@ -10,6 +10,7 @@ Estudio con la cuenta gratuita, una o dos sesiones por semana.
 
 ## Salas completadas
 - [x] Offensive Security Intro
+- [x] Defensive Security Intro.
 - [ ] Linux Fundamentals Part 1
 - [ ] Bash Scripting
 
